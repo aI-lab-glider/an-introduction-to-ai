@@ -1,7 +1,5 @@
 # An introduction course to Artificial Intelligence
 
-This repository contains instructions, documentations and useful materials related to the course and links to repositories with modules.
-
 This course consists of six modules each of which challenges students with implementations of algorithms or problems described in corresponding `TODOS`. 
 Each implementation is later followed by automated tests, that could be run locally to verify solution correctness.
 The modules are as following:
