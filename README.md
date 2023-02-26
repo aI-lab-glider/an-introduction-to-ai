@@ -1,4 +1,4 @@
-# An introduction course to Artificial Intelligence
+# An Introduction to Artificial Intelligence
 
 Welcome to this exciting course that will challenge you with implementing various algorithms and solving corresponding problems 🎓🤖. The course consists of six modules that are designed to provide a comprehensive understanding of fundamental AI concepts and techniques. Each module includes a series of TODOS that you will implement and later verify using automated tests 🧪🤖.
 
