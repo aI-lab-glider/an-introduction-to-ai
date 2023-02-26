@@ -1,12 +1,19 @@
 # An introduction course to Artificial Intelligence
 
-This course consists of six modules each of which challenges students with implementations of algorithms or problems described in corresponding `TODOS`. 
-Each implementation is later followed by automated tests, that could be run locally to verify solution correctness.
-The modules are as following:
+Welcome to this exciting course that will challenge you with implementing various algorithms and solving corresponding problems 🎓🤖. The course consists of six modules that are designed to provide a comprehensive understanding of fundamental AI concepts and techniques. Each module includes a series of TODOS that you will implement and later verify using automated tests 🧪🤖.
 
-1. [State Search](https://github.com/aI-lab-glider/ai-course-state-space-search) -- explains model concepts and basic tree search algorithms,
-2. [Adversarial Search](https://github.com/aI-lab-glider/ai-course-games-tree-search) -- introduces concept of adversarials in problems on example of simple games, and shows algorithms that are able to take into account,
-3. [Tabular Reinforcement Learning](https://github.com/aI-lab-glider/ai-course-rl) -- introduces Reinforcement learning and simple tabular algorithms,
-4. [Local Search](https://github.com/aI-lab-glider/ai-course-local-search-solver) -- introduces different discrete optimization techniques,
-5. [WIP] [Neural Networks](https://github.com/aI-lab-glider/ai-course-neural-nets) -- describes how neural networks work under the hood,
-6. [WIP] Deep Reinforcement Learning -- combines concepts of RL and NN introduced previously in order to show how to solve more complex problems.
+The modules are as follows:
+
+🔍 [State Search](https://github.com/aI-lab-glider/ai-course-state-space-search): This module explains model concepts and basic tree search algorithms, allowing you to solve problems through exploration of possible states.
+
+🕹️ [Adversarial Search](https://github.com/aI-lab-glider/ai-course-games-tree-search): This module introduces the concept of adversarial problems through simple games and shows you algorithms that can take into account the opponent's moves.
+
+🧠 [Tabular Reinforcement Learning](https://github.com/aI-lab-glider/ai-course-rl): This module introduces you to Reinforcement Learning and provides an understanding of simple tabular algorithms.
+
+🔍 [Local Search](https://github.com/aI-lab-glider/ai-course-local-search-solver): This module teaches you various discrete optimization techniques to solve complex problems.
+
+🤖 [WIP] [Neural Networks](https://github.com/aI-lab-glider/ai-course-neural-nets): This module explores how neural networks work under the hood and provides insights into their functionality.
+
+🕹️ [WIP] Deep Reinforcement Learning: This module combines the concepts of Reinforcement Learning and Neural Networks to solve more complex problems.
+
+Join us on this exciting journey to gain an in-depth understanding of AI and learn how to apply these techniques to solve real-world problems 🚀🤖.
